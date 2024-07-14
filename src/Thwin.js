@@ -13,9 +13,9 @@ function Thwin() {
           </tr>
         <tbody>
           <tr>
-            <td>Row 1, Cell 1</td>
-            <td>Row 1, Cell 2</td>
-            <td>Row 1, Cell 3</td>
+            <td>14/7/2024</td>
+            <td>Create website for submitting diary</td>
+            <td>None</td>
           </tr>
           <tr>
             <td>Row 2, Cell 1</td>
