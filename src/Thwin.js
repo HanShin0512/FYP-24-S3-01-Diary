@@ -13,8 +13,13 @@ function Thwin() {
           </tr>
         <tbody>
           <tr>
-            <td>14/7/2024</td>
-            <td>Create website for submitting diary</td>
+            <td>14/7/2024 - 21/7/2024</td>
+            <td>
+              <ul>
+                <li>Create website for submitting diary</li>
+                <li>Write project proposal</li>
+              </ul>
+            </td>
             <td>None</td>
           </tr>
           <tr>
