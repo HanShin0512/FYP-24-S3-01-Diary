@@ -25,13 +25,13 @@ function meetingMinutes() {
                 <td>None</td>
             </tr>
             <tr>
-                <td>Row 1, Cell 1</td>
-                <td>Row 1, Cell 2</td>
-                <td>Row 1, Cell 3</td>
-                <td>Row 1, Cell 4</td>
-                <td>Row 1, Cell 5</td>
-                <td>Row 1, Cell 6</td>
-                <td>Row 1, Cell 7</td>
+                <td>17/7/2024</td>
+                <td>3:00PM - 5:30PM</td>
+                <td>SIM BLK B</td>
+                <td>Write project proposal</td>
+                <td>write User story and user description</td>
+                <td>All</td>
+                <td>None</td>
             </tr>
             
           </table>
