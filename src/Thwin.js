@@ -18,14 +18,21 @@ function Thwin() {
               <ul>
                 <li>Create website for submitting diary</li>
                 <li>Write project proposal</li>
+                <li>Write use case description</li>
               </ul>
             </td>
             <td>None</td>
           </tr>
           <tr>
-            <td>Row 2, Cell 1</td>
-            <td>Row 2, Cell 2</td>
-            <td>Row 1, Cell 3</td>
+            <td>21/7/2024 - 27/7/2024</td>
+            <td>
+              <ul>
+                <li>Fix user stories</li>
+                <li>Draw use case diagrams</li>
+                <li>Assign tasks to teammates</li>
+              </ul>
+            </td>
+            <td>None</td>
           </tr>
         </tbody>
       </table>

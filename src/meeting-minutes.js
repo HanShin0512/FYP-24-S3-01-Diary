@@ -30,7 +30,16 @@ function meetingMinutes() {
                 <td>SIM BLK B</td>
                 <td>Write project proposal</td>
                 <td>write User story and user description</td>
-                <td>All</td>
+                <td>All members</td>
+                <td>None</td>
+            </tr>
+            <tr>
+                <td>23/7/2024</td>
+                <td>12:00PM - 3:30PM</td>
+                <td>SIM BLK B</td>
+                <td>Project requirement documentation</td>
+                <td>Draw use case diagrams</td>
+                <td>All members</td>
                 <td>None</td>
             </tr>
             
