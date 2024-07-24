@@ -24,9 +24,15 @@ function Elaine() {
             <td>Figuring out the user stories and what each user needs</td>
           </tr>
           <tr>
-            <td>Row 2, Cell 1</td>
-            <td>Row 2, Cell 2</td>
-            <td>Row 1, Cell 3</td>
+            <td>22/7/2024 - 27/7/2024</td>
+            <td>
+              <ul>
+                <li>Refined user stories</li>
+                <li>Wrote descriptions for newly added user stories</li>
+                <li>Created some use case diagrams</li>
+              </ul>
+            </td>
+            <td>None</td>
           </tr>
         </tbody>
       </table>
