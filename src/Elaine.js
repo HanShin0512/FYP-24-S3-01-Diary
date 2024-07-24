@@ -13,9 +13,15 @@ function Elaine() {
           </tr>
         <tbody>
           <tr>
-            <td>Row 1, Cell 1</td>
-            <td>Row 1, Cell 2</td>
-            <td>Row 1, Cell 3</td>
+            <td>14/7/2024 - 21/7/2024</td>
+            <td>
+              <ul>
+                <li>Wrote some things to project proposal</li>
+                <li>Wrote user stories and descriptions</li>
+                <li>Did some research on possible GANs we can use</li>
+              </ul>
+            </td>
+            <td>Figuring out the user stories and what each user needs</td>
           </tr>
           <tr>
             <td>Row 2, Cell 1</td>
