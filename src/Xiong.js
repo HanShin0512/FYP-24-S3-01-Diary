@@ -11,16 +11,28 @@ function Xiong() {
             <th>Task</th>
             <th>Obstacles Faced</th>
           </tr>
-        <tbody>
+          <tbody>
           <tr>
-            <td>Row 1, Cell 1</td>
-            <td>Row 1, Cell 2</td>
-            <td>Row 1, Cell 3</td>
+            <td>14/7/2024 - 21/7/2024</td>
+            <td>
+              <ul>
+                <li>project proposal documentation</li>
+                <li>Create user stories and descriptions</li>
+                <li>List out the basic feature for the website</li>
+              </ul>
+            </td>
+            <td>Checking the correctness of user stories and descriptions</td>
           </tr>
           <tr>
-            <td>Row 2, Cell 1</td>
-            <td>Row 2, Cell 2</td>
-            <td>Row 1, Cell 3</td>
+            <td>22/7/2024 - 27/7/2024</td>
+            <td>
+              <ul>
+                <li>Refined user stories</li>
+                <li>Refine and standardize all user descriptions</li>
+                <li>Created some use case diagrams</li>
+              </ul>
+            </td>
+            <td>NA</td>
           </tr>
         </tbody>
       </table>
