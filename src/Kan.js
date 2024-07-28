@@ -13,14 +13,27 @@ function Kan() {
           </tr>
         <tbody>
           <tr>
-            <td>Row 1, Cell 1</td>
-            <td>Row 1, Cell 2</td>
-            <td>Row 1, Cell 3</td>
+            <td>14/7/2024 - 27/7/2024</td>
+            <td>Research about competitions
+              Research about GANs
+              Contributed to project proposal
+              Meeting with supervisor
+            </td>
+            <td>No technical knowledge about GANs
+              Desigining the flow of the website and use cases
+              Deciding the roles of each member at an very early stage of development.
+            </td>
           </tr>
           <tr>
-            <td>Row 2, Cell 1</td>
-            <td>Row 2, Cell 2</td>
-            <td>Row 1, Cell 3</td>
+            <td>22/7/2024 - 27/7/2024</td>
+            <td>Edit propject proposal
+              Desigining wireframe and website prototype
+              Research about website programming for backend
+            </td>
+            <td>Only have a little experience with website programming
+              Didn't know anything about scrum
+              Conflicting technical tools and deciding on which tool to use
+            </td>
           </tr>
         </tbody>
       </table>
