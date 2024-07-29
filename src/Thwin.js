@@ -21,7 +21,7 @@ function Thwin() {
                 <li>Write use case description</li>
               </ul>
             </td>
-            <td>None</td>
+            <td>Unfamiliar with what diagrams to put in the proposal</td>
           </tr>
           <tr>
             <td>21/7/2024 - 27/7/2024</td>
@@ -32,7 +32,18 @@ function Thwin() {
                 <li>Assign tasks to teammates</li>
               </ul>
             </td>
-            <td>None</td>
+            <td>Deciding on the users that will use our system</td>
+          </tr>
+          <tr>
+            <td>28/7/2024 - 3/8/2024</td>
+            <td>
+              <ul>
+                <li>Draw use case diagrams</li>
+                <li>Design web page</li>
+                <li>Code that web page</li>
+              </ul>
+            </td>
+            <td> Website responsive error </td>
           </tr>
         </tbody>
       </table>
