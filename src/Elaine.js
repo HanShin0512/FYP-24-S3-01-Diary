@@ -34,6 +34,20 @@ function Elaine() {
             </td>
             <td>None</td>
           </tr>
+          <tr>
+            <td>28/7/2024 - 3/8/2024</td>
+            <td>
+              <ul>
+                <li>Updated some use case diagrams</li>
+                <li>Expanded on competitor research in PRD</li>
+              </ul>
+            </td>
+            <td>
+                <li>Premium features were difficult to verify since they require payment</li>
+                <li>Some free versions are unavailable for download at the time or offer very limited uses that make it difficult to verify features</li>
+                <li>A lot of these products have very similar features, which makes it difficult to find non-arbitrary products</li>
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>
