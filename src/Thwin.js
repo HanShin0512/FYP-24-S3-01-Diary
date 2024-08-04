@@ -41,6 +41,8 @@ function Thwin() {
                 <li>Draw use case diagrams</li>
                 <li>Design web page</li>
                 <li>Code that web page</li>
+                <li>Updatet use case descriptions on taiga</li>
+                <li>Update use case diagrams</li>
               </ul>
             </td>
             <td> Website responsive error </td>
