@@ -40,6 +40,20 @@ function Minseo() {
               </ul>
             </td>
           </tr>
+          <tr>
+            <td>28/7/2024 - 3/8/2024</td>
+            <td>
+              <ul>
+                <li>Update some use case diagrams</li>
+                <li>Design overall website wireframes</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>N/A</li>
+              </ul>
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>
