@@ -47,6 +47,31 @@ function Thwin() {
             </td>
             <td> Website responsive error </td>
           </tr>
+          <tr>
+            <td>4/8/2024 - 10/8/2024</td>
+            <td>
+              <ul>
+                <li>Code web page</li>
+                <li>Updatet use case descriptions</li>
+                <li>Update use case diagrams</li>
+                <li>Draw gantt chart</li>
+              </ul>
+            </td>
+            <td> Unfamiliar with how to draw gantt chart </td>
+          </tr>
+          <tr>
+            <td>11/8/2024 - 16/8/2024</td>
+            <td>
+              <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+              </ul>
+            </td>
+            <td>  </td>
+          </tr>
         </tbody>
       </table>
     </div>
