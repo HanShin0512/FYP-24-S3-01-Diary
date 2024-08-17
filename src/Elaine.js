@@ -48,6 +48,32 @@ function Elaine() {
                 <li>A lot of these products have very similar features, which makes it difficult to find non-arbitrary products</li>
             </td>
           </tr>
+          <tr>
+            <td>4/8/2024 - 10/8/2024</td>
+            <td>
+              <ul>
+                <li>Did minor tweaks to competitor research to add more details</li>
+                <li>Did extra research on GAN models and how to implement them</li>
+              </ul>
+            </td>
+            <td>
+                <li>Trying to manage time between FYP and my other assignment is difficult since the latter has a tighter deadline</li>
+                <li>Understanding how the GAN models work is difficult since we have no experience with them, and instructions aren not beginner friendly</li>
+            </td>
+          </tr>
+          <tr>
+            <td>11/8/2024 - 16/8/2024</td>
+            <td>
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </td>
+            <td>
+                <li></li>
+                <li></li>
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>
