@@ -41,7 +41,7 @@ function Minseo() {
             </td>
           </tr>
           <tr>
-            <td>28/7/2024 - 3/8/2024</td>
+            <td>4/7/2024 - 3/8/2024</td>
             <td>
               <ul>
                 <li>Update some use case diagrams</li>
@@ -51,6 +51,34 @@ function Minseo() {
             <td>
               <ul>
                 <li>N/A</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>4/8/2024 - 10/8/2024</td>
+            <td>
+              <ul>
+                <li>Review finalized version of Project Requirement Documentation</li>
+                <li>Draw Functional Hierarchy Diagram</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>N/A</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>11/8/2024 - 17/8/2024</td>
+            <td>
+              <ul>
+                <li>Try reimplementing GANimation<sup><a href='https://github.com/albertpumarola/GANimation'>[Github]</a></sup></li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>Facing dependency issues.</li>
+                <li>Face landmarking doesn't work well (Assuming the reason as input dataset problem, trying to solve.)</li>
               </ul>
             </td>
           </tr>
