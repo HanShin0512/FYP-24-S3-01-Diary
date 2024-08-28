@@ -61,16 +61,13 @@ function Thwin() {
           </tr>
           <tr>
             <td>11/8/2024 - 16/8/2024</td>
-            <td>
-              <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-              </ul>
-            </td>
-            <td>  </td>
+            <td> Finish tasks in sprint 1 </td>
+            <td> None </td>
+          </tr>
+          <tr>
+            <td>17/8/2024 - 23/8/2024</td>
+            <td> Practice frontend </td>
+            <td> None </td>
           </tr>
         </tbody>
       </table>
