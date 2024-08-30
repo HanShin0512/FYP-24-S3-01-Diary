@@ -62,16 +62,27 @@ function Elaine() {
             </td>
           </tr>
           <tr>
-            <td>11/8/2024 - 16/8/2024</td>
+            <td>11/8/2024 - 17/8/2024</td>
             <td>
               <ul>
-                <li></li>
-                <li></li>
+                <li>Continued to do research on various GAN models</li>
               </ul>
             </td>
             <td>
-                <li></li>
-                <li></li>
+                <li>Not many GAN models are optimized for facial animation; unsure how to implement to site</li>
+                <li>Don't have a lot of experience with GitHub, so understanding how to use it for the project is difficult; will continue to get used to it</li>
+            </td>
+          </tr>
+          <tr>
+            <td>18/8/2024 - 24/8/2024</td>
+            <td>
+              <ul>
+                <li>Did some reading on GANimation</li>
+                <li>Discussed how to proceed with Sprint 2</li>
+              </ul>
+            </td>
+            <td>
+                <li>Attempting to implement contents of an existing GAN is difficult without experience</li>
             </td>
           </tr>
         </tbody>
