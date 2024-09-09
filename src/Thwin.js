@@ -60,13 +60,18 @@ function Thwin() {
             <td> Unfamiliar with how to draw gantt chart </td>
           </tr>
           <tr>
-            <td>11/8/2024 - 16/8/2024</td>
+            <td>11/8/2024 - 17/8/2024</td>
             <td> Finish tasks in sprint 1 </td>
             <td> None </td>
           </tr>
           <tr>
-            <td>17/8/2024 - 23/8/2024</td>
+            <td>18/8/2024 - 24/8/2024</td>
             <td> Practice frontend </td>
+            <td> None </td>
+          </tr>
+          <tr>
+            <td>25/8/2024 - 7/9/2024</td>
+            <td> Code sprint 2 </td>
             <td> None </td>
           </tr>
         </tbody>
