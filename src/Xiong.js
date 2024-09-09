@@ -34,6 +34,55 @@ function Xiong() {
             </td>
             <td>NA</td>
           </tr>
+          <tr>
+            <td>4/7/2024 - 3/8/2024</td>
+            <td>
+              <ul>
+                <li>Updated some use case diagrams</li>
+              </ul>
+            </td>
+            <td>NA</td>
+          </tr>
+          <tr>
+            <td>4/8/2024 - 10/8/2024</td>
+            <td>
+              <ul>
+                <li>Research possible available AI model for implementation</li>
+                <li>Implement some AI model for testing</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>Some AI model on the web is oudated or not working, Spend quite amount of time troubleshoot technical errors</li>
+              </ul>
+            </td>
+          </tr>
+          <td>11/8/2024 - 17/8/2024</td>
+            <td>
+              <ul>
+                <li>Coding the brand new AI model using python, setting up environment and finding datasets</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>Never done AI coding before having problem with the code foundation</li>
+                <li>Mostly fixing code issue</li>
+              </ul>
+            </td>
+          <tr>
+            <td>18/8/2024 - 24/8/2024</td>
+            <td>
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>N/A</li>
+              </ul>
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>

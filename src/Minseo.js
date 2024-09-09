@@ -82,6 +82,20 @@ function Minseo() {
               </ul>
             </td>
           </tr>
+          <tr>
+            <td>18/8/2024 - 24/8/2024</td>
+            <td>
+              <ul>
+                <li>Firebase initialization</li>
+                <li>Search for Diffusion models related to face expression animating</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>N/A</li>
+              </ul>
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>
