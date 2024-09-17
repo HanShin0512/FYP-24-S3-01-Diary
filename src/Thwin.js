@@ -74,6 +74,16 @@ function Thwin() {
             <td> Code sprint 2 </td>
             <td> None </td>
           </tr>
+          <tr>
+            <td>8/9/2024 - 14/9/2024</td>
+            <td> 
+              <ul>
+                <li> Finsihes debt from sprint 2 </li>
+                <li> Do documentation (technical and user manuals) </li>
+              </ul>
+            </td>
+            <td> Unfamiliar with most of what should be in the manuals </td>
+          </tr>
         </tbody>
       </table>
     </div>
