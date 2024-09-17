@@ -96,6 +96,61 @@ function Minseo() {
               </ul>
             </td>
           </tr>
+          <tr>
+            <td>25/8/2024 - 31/8/2024</td>
+            <td>
+              <ul>
+                <li>Search some implementations with pretrained models</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>N/A</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>1/9/2024 - 7/9/2024</td>
+            <td>
+              <ul>
+                <li>Try setting on some GAN models</li>
+                <li>- <a href='https://github.com/donydchen/ganimation_replicate'>ganimation_replicate</a></li>
+                <li>- <a href='https://github.com/genforce/interfacegan'>InterFaceGAN</a></li>
+                <li>- <a href='https://github.com/MingtaoGuo/Face-Attribute-Editing-StyleGAN3'>Face-Attribute-Editing-StyleGAN3</a></li>
+                <li>Try setting on some Diffusion model</li>
+                <li>- <a href='https://github.com/yuangan/EAT_code'>Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation</a></li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>Facing dependency issues.</li>
+                <li>Need to modify the dataset structure and inference method to match our goal.</li>
+                <li>Can 'modify' the image, but hard to make 'animate'.</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>8/9/2024 - 14/9/2024</td>
+            <td>
+              <ul>
+                <li>Try setting on some non-GAN (CNN) model</li>
+                <li>- <a href='https://github.com/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis'>One-Shot Free-View Neural Talking Head Synthesis</a></li>
+                <li>Try setting on some GAN models</li>
+                <li>- <a href='https://github.com/xiaohanghu/2CET-GAN'>2CET-GAN</a></li>
+                <li>- <a href='https://github.com/OpenTalker/StyleHEAT'>StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pretrained StyleGAN</a></li>
+                <li>Modify inference function and dataset loader of StyleHEAT so we can use it for our project</li>
+                <li>Set ML API tunnel with StyleHEAT inference runner using FastAPI</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>Face some errors with dependencies, especially with CUDA driver.</li>
+                <li>StyleHEAT's internal design of dataset loader have error when load data with API.</li>
+                <li>Took lots of time to analyse the implementation codes and modify to solve the API async data error.</li>
+                <li>Still have some face alignment issue. Need to work on it.</li>
+              </ul>
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>

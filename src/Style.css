@@ -1,66 +1,104 @@
-*{
-    box-sizing: border-box; 
-    margin: 0; 
-    padding: 0; 
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
     list-style: none;
-} 
+}
 
 /* table */
-table{
+table {
     border-collapse: collapse;
 }
-th, td {
-    border: 1px solid #000; 
+
+th,
+td {
+    border: 1px solid #000;
     padding: 8px;
     text-align: left;
-} 
-th {
-background-color: #f2f2f2;
 }
+
+th {
+    background-color: #f2f2f2;
+}
+
 /* table */
 
 /* Member info table*/
-.member-info table{
+.member-info table {
     margin: auto;
 }
-.member-info td:nth-child(2), .member-info th:nth-child(2) {
+
+.member-info td:nth-child(2),
+.member-info th:nth-child(2) {
     width: 30px;
 }
+
 /* Member info table */
+
+/* Project materials table */
+.project-materials table {
+    margin: auto;
+}
+
+.project-materials td:nth-child(2),
+.project-materials th:nth-child(2) {
+    width: fit-content;
+}
+
+.project-materials {
+    padding-top: 50px;
+}
+
+/* Project materials table */
 
 /* Diary table */
 .App table {
     margin: auto;
     width: 100%;
 }
-.App td:first-child, .App th:first-child {
-width: 15%; 
+
+.App td:first-child,
+.App th:first-child {
+    width: 15%;
 }
-.App td:nth-child(2), .App th:nth-child(2) {
-width: 45%; 
+
+.App td:nth-child(2),
+.App th:nth-child(2) {
+    width: 45%;
 }
+
 /* Diary table */
-  
+
 /* Space between member */
-.App{
-    padding-top: 50px; 
+.App {
+    padding-top: 50px;
 }
+
 /* Space between member */
 
 /* meeting minutes table */
-.meeting-minutes{
-    padding-top: 50px; 
+.meeting-minutes {
+    padding-top: 50px;
 }
-.meeting-minutes table{
+
+.meeting-minutes table {
     width: 100%;
 }
-.meeting-minutes td:first-child, .meeting-minutes th:first-child,
-.meeting-minutes td:nth-child(2), .meeting-minutes th:nth-child(2) {
-width: 7%; 
+
+.meeting-minutes td:first-child,
+.meeting-minutes th:first-child,
+.meeting-minutes td:nth-child(2),
+.meeting-minutes th:nth-child(2) {
+    width: 7%;
 }
-.meeting-minutes td:nth-child(4), .meeting-minutes th:nth-child(4),
-.meeting-minutes td:nth-child(5), .meeting-minutes th:nth-child(5),
-.meeting-minutes td:nth-child(6), .meeting-minutes th:nth-child(6) {
-width: 20%; 
+
+.meeting-minutes td:nth-child(4),
+.meeting-minutes th:nth-child(4),
+.meeting-minutes td:nth-child(5),
+.meeting-minutes th:nth-child(5),
+.meeting-minutes td:nth-child(6),
+.meeting-minutes th:nth-child(6) {
+    width: 20%;
 }
+
 /* meeting minutes table */

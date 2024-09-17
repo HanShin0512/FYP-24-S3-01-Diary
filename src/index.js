@@ -49,6 +49,19 @@ root.render(
         </table>
       </div>
 
+      <div className='project-materials'>
+        <table>
+          <tr>
+            <th>Project Website</th>
+            <th><a href='https://uowfyp-24-s3-01.vercel.app/'>https://uowfyp-24-s3-01.vercel.app/</a></th>
+          </tr>
+          <tr>
+            <td>Project Requirement Documentation</td>
+            <td><a href='https://drive.google.com/file/d/1DX6JQsvDRBwHtdEwGn6_xDFMVcSEo0bN/view?usp=sharing'>Project Requirement Documentation (Google Drive)</a></td>
+          </tr>
+        </table>
+      </div>
+
       <div className='diary'>
         <Minseo />
         <Thwin />
@@ -58,7 +71,7 @@ root.render(
       </div>
 
       <MeetingMinutes />
-      
+
     </>
   </React.StrictMode>
 );
