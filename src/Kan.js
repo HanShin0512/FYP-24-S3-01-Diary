@@ -49,6 +49,7 @@ function Kan() {
                 I need to know more about NoSQL.
                 Some github issues occured and have to fix it.
             </td>
+          </tr>
             <tr>
             <td>11/8/2024 - 17/8/2024</td>
             <td>Starting doing backend in a test project.
@@ -56,6 +57,7 @@ function Kan() {
             </td>
             <td>Need to redirect user based on their login status.
             </td>
+            </tr>
         </tbody>
       </table>
     </div>
