@@ -78,7 +78,7 @@ function Thwin() {
             <td>8/9/2024 - 14/9/2024</td>
             <td> 
               <ul>
-                <li> Finsihes debt from sprint 2 </li>
+                <li> Perfect the web for presentation </li>
                 <li> Do documentation (technical and user manuals) </li>
               </ul>
             </td>
