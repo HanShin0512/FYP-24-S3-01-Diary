@@ -34,7 +34,28 @@ function Kan() {
               Didn't know anything about scrum
               Conflicting technical tools and deciding on which tool to use
             </td>
+            <td>28/7/2024 - 3/8/2024</td>
+            <td>Researching about firebase</td>
+            <td>I have never done backend or frontend before except basic html.
+              So to do react and authentication I have to learn about those tools first.    
+            </td>
           </tr>
+          <tr>
+            <td>4/8/2024 - 10/8/2024</td>
+            <td>Research about REACT especially context and effect for backend
+              Research about authentication and database in firebase
+            </td>
+            <td>Firebase database is similar to MongoDB and I have good knowledge about SQL but
+                I need to know more about NoSQL.
+                Some github issues occured and have to fix it.
+            </td>
+            <tr>
+            <td>11/8/2024 - 17/8/2024</td>
+            <td>Starting doing backend in a test project.
+                Managed to implement login and logout.
+            </td>
+            <td>Need to redirect user based on their login status.
+            </td>
         </tbody>
       </table>
     </div>
