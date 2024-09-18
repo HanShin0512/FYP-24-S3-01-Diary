@@ -34,11 +34,13 @@ function Kan() {
               Didn't know anything about scrum
               Conflicting technical tools and deciding on which tool to use
             </td>
+            <tr>
             <td>28/7/2024 - 3/8/2024</td>
             <td>Researching about firebase</td>
             <td>I have never done backend or frontend before except basic html.
               So to do react and authentication I have to learn about those tools first.    
             </td>
+                </tr>
           </tr>
           <tr>
             <td>4/8/2024 - 10/8/2024</td>
