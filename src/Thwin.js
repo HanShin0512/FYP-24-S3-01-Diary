@@ -94,7 +94,11 @@ function Thwin() {
                 <li> Practice presentation </li>
               </ul>
             </td>
-            <td> Unfamiliar with most of what should be in the manuals </td>
+            <td> 
+              <ul>
+                <li>Confusion with whether to use state diagram or sequence diagram </li>
+              </ul>  
+            </td>
           </tr>
         </tbody>
       </table>
