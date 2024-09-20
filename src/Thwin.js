@@ -84,6 +84,18 @@ function Thwin() {
             </td>
             <td> Unfamiliar with most of what should be in the manuals </td>
           </tr>
+          <tr>
+            <td>15/9/2024 - 21/9/2024</td>
+            <td> 
+              <ul>
+                <li> Perfect the web for presentation </li>
+                <li> Perfect the documentation (technical and user manuals) </li>
+                <li> Do the powerpoint slides </li>
+                <li> Practice presentation </li>
+              </ul>
+            </td>
+            <td> Unfamiliar with most of what should be in the manuals </td>
+          </tr>
         </tbody>
       </table>
     </div>
