@@ -85,6 +85,43 @@ function Elaine() {
                 <li>Attempting to implement contents of an existing GAN is difficult without experience</li>
             </td>
           </tr>
+          <tr>
+            <td>25/8/2024 - 7/9/2024</td>
+            <td>
+              <ul>
+                <li>Looked through different GAN models to see which one might work best</li>
+                <li>Attempted to play around with some of the models</li>
+              </ul>
+            </td>
+            <td>
+                <li>Some extra difficulty due to using an Apple Silicon MacBook, since some programs are not compatible with Silicon-based Macs</li>
+            </td>
+          </tr>
+          <tr>
+            <td>8/9/2024 - 14/9/2024</td>
+            <td>
+              <ul>
+                <li>Discussed how to do the documentation for Mid-point presentation</li>
+                <li>Looked through Technical and User Manual examples to figure out format</li>
+              </ul>
+            </td>
+            <td>
+                <li>Format of Technical and User Manual examples was confusing; unsure how to start</li>
+            </td>
+          </tr>
+          <tr>
+            <td>15/9/2024 - 21/9/2024</td>
+            <td>
+              <ul>
+                <li>Worked on Technical Manual and User Manual</li>
+                <li>Worked on presentation slides for midpoint presentation</li>
+              </ul>
+            </td>
+            <td>
+                <li>Sequence diagrams were a bit confusing; unsure how exactly to do it since we did not do Object-Oriented Programming</li>
+                <li>Content of presentation slides was difficult to consolidate; had to remember what our Unique Selling Point was</li>
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>
