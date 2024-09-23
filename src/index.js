@@ -59,6 +59,18 @@ root.render(
             <td>Project Requirement Documentation</td>
             <td><a href='https://drive.google.com/file/d/1DX6JQsvDRBwHtdEwGn6_xDFMVcSEo0bN/view?usp=sharing'>Project Requirement Documentation (Google Drive)</a></td>
           </tr>
+          <tr>
+            <td>Preliminary Technical Documentation</td>
+            <td><a href='https://drive.google.com/file/d/16vzuhs8pBBvmrgokPwudt1oHNnb-Mgwh/view?usp=sharing'>Preliminary Technical Documentation (Google Drive)</a></td>
+          </tr>
+          <tr>
+            <td>Preliminary User Manual</td>
+            <td><a href='https://drive.google.com/file/d/1uKarzKk_vp77DLKtg9n3qoIT1dBrzLXw/view?usp=sharing'>Preliminary User Manual (Google Drive)</a></td>
+          </tr>
+          <tr>
+            <td>Mid-point Presentation Slide</td>
+            <td><a href='https://docs.google.com/presentation/d/17fgU8WaHO1glKwjdNlsriRv4GssPiAlc/edit?usp=sharing&ouid=112959193424389665200&rtpof=true&sd=true'>Mid-point Presentation Slide (Google Drive)</a></td>
+          </tr>
         </table>
       </div>
 

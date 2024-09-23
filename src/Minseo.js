@@ -151,6 +151,23 @@ function Minseo() {
               </ul>
             </td>
           </tr>
+          <tr>
+            <td>15/9/2024 - 21/9/2024</td>
+            <td>
+              <ul>
+                <li>Writing down the Preliminary Technical Document</li>
+                <li>Writing down the Preliminary User Manual</li>
+                <li>Preparing presentation</li>
+                <li>Connect ML server using vercel proxy</li>
+                <li>Add some error handlings on front-end</li>\
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>ML server only supports HTTP and our deployment is on HTTPS. Solve an issue by using proxy.</li>
+              </ul>
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>
