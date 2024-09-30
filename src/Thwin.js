@@ -100,6 +100,35 @@ function Thwin() {
               </ul>  
             </td>
           </tr>
+          <tr>
+            <td>22/9/2024 - 28/9/2024</td>
+            <td> 
+              <ul>
+                <li> code front end for admin search user </li>
+                <li> Update the subscription pricing and list items </li>
+                <li> Code front end for admin create user </li>
+                <li> Update style for profile drop down menu </li>
+              </ul>
+            </td>
+            <td> 
+              <ul>
+                <li>Space overflow problem </li>
+              </ul>  
+            </td>
+          </tr>
+          <tr>
+            <td>29/9/2024 - 5/10/2024</td>
+            <td> 
+              <ul>
+                <li> added pop up modals for admin account creation </li>
+              </ul>
+            </td>
+            <td> 
+              <ul>
+                <li> github branch mergining problem </li>
+              </ul>  
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>
