@@ -87,8 +87,15 @@ function meetingMinutes() {
                 <td>All members</td>
                 <td>None</td>
             </tr>
-
-            
+            <tr>
+                <td>21/9/2024</td>
+                <td>9:00PM - 10:00PM</td>
+                <td>Discord</td>
+                <td>Create tasks for sprint 3 and assign them</td>
+                <td>Complete the tasks assigned</td>
+                <td>All members</td>
+                <td>None</td>
+            </tr>
           </table>
       </div>
     );

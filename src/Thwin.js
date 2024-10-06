@@ -104,7 +104,7 @@ function Thwin() {
             <td>22/9/2024 - 28/9/2024</td>
             <td> 
               <ul>
-                <li> code front end for admin search user </li>
+                <li> Code front end for admin search user </li>
                 <li> Update the subscription pricing and list items </li>
                 <li> Code front end for admin create user </li>
                 <li> Update style for profile drop down menu </li>
@@ -120,12 +120,33 @@ function Thwin() {
             <td>29/9/2024 - 5/10/2024</td>
             <td> 
               <ul>
-                <li> added pop up modals for admin account creation </li>
+                <li> Added pop up modals for admin account creation </li>
+                <li> Coded front end for admin view user details</li>
+                <li> Coded front end for admin delete user </li>
+                <li> Try to fix input error</li>
               </ul>
             </td>
             <td> 
               <ul>
-                <li> github branch mergining problem </li>
+                <li> Github branch mergining problem </li>
+                <li> Creating reusable modal </li>
+                <li> Cannot type in input fields </li>
+              </ul>  
+            </td>
+          </tr>
+          <tr>
+            <td>6/9/2024 - 12/10/2024</td>
+            <td> 
+              <ul>
+                <li> Change admin wireframes </li>
+                <li> Update admin page design </li>
+                <li> Code new admin create user page </li>
+                <li> </li>
+              </ul>
+            </td>
+            <td> 
+              <ul>
+                <li> None </li>
               </ul>  
             </td>
           </tr>
