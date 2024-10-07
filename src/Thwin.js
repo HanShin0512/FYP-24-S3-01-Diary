@@ -141,7 +141,10 @@ function Thwin() {
                 <li> Change admin wireframes </li>
                 <li> Update admin page design </li>
                 <li> Code new admin create user page </li>
-                <li> </li>
+                <li> Code new user table</li>
+                <li> Code front end for view user credit card info </li>
+                <li> Code front end for delete user credit card info </li>
+                <li> Code front end for edit user info </li>
               </ul>
             </td>
             <td> 
