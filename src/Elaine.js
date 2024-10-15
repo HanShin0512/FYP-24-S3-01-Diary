@@ -122,6 +122,52 @@ function Elaine() {
                 <li>Content of presentation slides was difficult to consolidate; had to remember what our Unique Selling Point was</li>
             </td>
           </tr>
+          <tr>
+            <td>22/9/2024 - 28/9/2024</td>
+            <td> 
+              <ul>
+                <li>Searched for other facial recognition methods for greater accuracy</li>
+                <li>Looked through the sample images in the github</li>
+                <li>Tried focial animation with my own face to see how bad it is</li>
+              </ul>
+            </td>
+            <td> 
+              <ul>
+                <li>Facial recognition is very poor; "four eyes" problem</li>
+                <li>Understanding how model is trained is difficult; would also take a long time to train</li>
+              </ul>  
+            </td>
+          </tr>
+          <tr>
+            <td>29/9/2024 - 5/10/2024</td>
+            <td> 
+              <ul>
+                <li>Looked for stock videos for the different emotions</li>
+                <li>Edited and uploaded some to our shared drive to meet the requirements to train the model with</li>
+              </ul>
+            </td>
+            <td> 
+              <ul>
+                <li>Difficult to find good stock videos that are free, have no watermark, and face forward</li>
+              </ul>  
+            </td>
+          </tr>
+          <tr>
+            <td>6/10/2024 - 12/10/2024</td>
+            <td> 
+              <ul>
+                <li>Looked for more stock videos for the different emotions; happy was done</li>
+                <li>Edited and uploaded some to our shared drive to meet the requirements to train the model with</li>
+              </ul>
+            </td>
+            <td> 
+              <ul>
+                <li>Difficult to find good stock videos that are free, have no watermark, and face forward</li>
+                <li>Angry stock videos have too many hand movements that sometimes cover the face</li>
+                <li>Sad stock videos usually are not forward-facing</li>
+              </ul>  
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>
