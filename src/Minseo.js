@@ -186,12 +186,14 @@ function Minseo() {
             <td>
               <ul>
                 <li>Finding an labelled emotional video dataset which can be used for both training and transferring.</li>
+                <li>- <a href='https://ibug.doc.ic.ac.uk/resources/aff-wild2/'>Aff-Wild2 dataset</a></li>
+                <li>- <a href='https://www2.informatik.uni-hamburg.de/wtm/OMG-EmotionChallenge/'>OMG-Emotion Dataset</a></li>
                 <li>Find target video can be used for "sad" emotion.</li>
               </ul>
             </td>
             <td>
               <ul>
-                <li><a href='https://ibug.doc.ic.ac.uk/resources/aff-wild2/'>Aff-Wild2 dataset</a> looks good for our project.</li>
+                <li>Aff-Wild2 dataset needs to contact them. I've already get access approval, but need to pay 500GBP for perfunctory fee.</li>
               </ul>
             </td>
           </tr>
