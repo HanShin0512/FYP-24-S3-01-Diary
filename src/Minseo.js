@@ -159,12 +159,66 @@ function Minseo() {
                 <li>Writing down the Preliminary User Manual</li>
                 <li>Preparing presentation</li>
                 <li>Connect ML server using vercel proxy</li>
-                <li>Add some error handlings on front-end</li>\
+                <li>Add some error handlings on front-end</li>
               </ul>
             </td>
             <td>
               <ul>
                 <li>ML server only supports HTTP and our deployment is on HTTPS. Solve an issue by using proxy.</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>22/9/2024 - 28/9/2024</td>
+            <td>
+              <ul>
+                <li></li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li></li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>29/9/2024 - 5/10/2024</td>
+            <td>
+              <ul>
+                <li>Finding an labelled emotional video dataset which can be used for both training and transferring.</li>
+                <li>Find target video can be used for "sad" emotion.</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li><a href='https://ibug.doc.ic.ac.uk/resources/aff-wild2/'>Aff-Wild2 dataset</a> looks good for our project.</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>6/10/2024 - 12/10/2024</td>
+            <td>
+              <ul>
+                <li>Trying to train the 3DMM extractor, but not successful.</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>The dataset for train the StyleHEAT's 3DMM extractor is already deprecated, or the size is too large. (VoxCelebA)</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>13/10/2024 - 19/10/2024</td>
+            <td>
+              <ul>
+                <li>Try implementing another Deep Learning approach: <a href='https://github.com/KwaiVGI/LivePortrait'>KwaiVGI/LivePortrait</a></li>
+                <li>Find target video can be used for "surprised" emotion.</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>N/A</li>
               </ul>
             </td>
           </tr>
