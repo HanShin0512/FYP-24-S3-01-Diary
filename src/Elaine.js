@@ -168,6 +168,23 @@ function Elaine() {
               </ul>  
             </td>
           </tr>
+          <tr>
+            <td>13/10/2024 - 19/10/2024</td>
+            <td> 
+              <ul>
+                <li>Looked for more stock videos for the different emotions; angry and sad were done</li>
+                <li>Edited and uploaded videos to our shared drive to meet the requirements to train the model with</li>
+              </ul>
+            </td>
+            <td> 
+              <ul>
+                <li>Difficult to find good stock videos that are free, have no watermark, and face forward</li>
+                <li>Need to find expression videos that are distinct from each other so they're not mistake for one another</li>
+                <li>Surprised and fear videos mostly had a hand covering the mouth; not ideal to use as source videos</li>
+                <li>Disgusted expression videos are the most difficult to find; don't turn up a lot on search engines</li>
+              </ul>  
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>
