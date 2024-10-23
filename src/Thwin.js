@@ -153,6 +153,36 @@ function Thwin() {
               </ul>  
             </td>
           </tr>
+          <tr>
+            <td>13/10/2024 - 19/10/2024</td>
+            <td> 
+              <ul>
+                <li> Add cancel button to camera preview </li>
+                <li> Add save and generate again button after successful AI generation</li>
+                <li> Code save video </li>
+                <li> Code downloads page </li>
+                <li> Add toast messages</li>
+              </ul>
+            </td>
+            <td> 
+              <ul>
+                <li> None </li>
+              </ul>  
+            </td>
+          </tr>
+          <tr>
+            <td>20/10/2024 - 26/10/2024</td>
+            <td> 
+              <ul>
+                <li> code card for saved video </li>
+              </ul>
+            </td>
+            <td> 
+              <ul>
+                <li> None </li>
+              </ul>  
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>
