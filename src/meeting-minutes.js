@@ -105,6 +105,15 @@ function meetingMinutes() {
                 <td>All members</td>
                 <td>None</td>
             </tr>
+            <tr>
+                <td>20/10/2024</td>
+                <td>9:00PM - 10:00PM</td>
+                <td>Discord</td>
+                <td>Discuss completed tasks in sprint 4 and prepare for sprint 5</td>
+                <td>Complete the tasks assigned</td>
+                <td>All members</td>
+                <td>None</td>
+            </tr>
           </table>
       </div>
     );
