@@ -162,6 +162,7 @@ function Thwin() {
                 <li> Code save video </li>
                 <li> Code downloads page </li>
                 <li> Add toast messages</li>
+                <li> organise button code</li>
               </ul>
             </td>
             <td> 
@@ -174,7 +175,11 @@ function Thwin() {
             <td>20/10/2024 - 26/10/2024</td>
             <td> 
               <ul>
-                <li> code card for saved video </li>
+                <li> Code card for saved video </li>
+                <li> Code share video </li>
+                <li> Code delete saved video </li>
+                <li> Code download saved video </li>
+                <li> Code edit user account page </li>
               </ul>
             </td>
             <td> 
