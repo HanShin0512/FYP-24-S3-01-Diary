@@ -224,6 +224,34 @@ function Minseo() {
               </ul>
             </td>
           </tr>
+          <tr>
+            <td>20/10/2024 - 26/10/2024</td>
+            <td>
+              <ul>
+                <li>Setting an API for new model (KwaiVGI)</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>N/A</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>27/10/2024 - 2/11/2024</td>
+            <td>
+              <ul>
+                <li>Setting the AI to inference the painting and animal faces too.</li>
+                <li>Imply <a href='https://github.com/openai/CLIP'>OpenAI CLIP</a> for classify the input image is human face or animal face.</li>
+                <li>Verifying the driving videos we have are working correctly or not.</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>N/A</li>
+              </ul>
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>
