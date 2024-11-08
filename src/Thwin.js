@@ -188,6 +188,22 @@ function Thwin() {
               </ul>  
             </td>
           </tr>
+          <tr>
+            <td>20/10/2024 - 26/10/2024</td>
+            <td> 
+              <ul>
+                <li> Seperate frontend for subscribed user and non users </li>
+                <li> Fix navbar menu for responsiveness</li>
+                <li> Fix cancel button in take photo </li>
+                <li> Make AI page responsive </li>
+              </ul>
+            </td>
+            <td> 
+              <ul>
+                <li> None </li>
+              </ul>  
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>
