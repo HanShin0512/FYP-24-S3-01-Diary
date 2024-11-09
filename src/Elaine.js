@@ -179,9 +179,62 @@ function Elaine() {
             <td> 
               <ul>
                 <li>Difficult to find good stock videos that are free, have no watermark, and face forward</li>
-                <li>Need to find expression videos that are distinct from each other so they're not mistake for one another</li>
+                <li>Need to find expression videos that are distinct from each other so they're not mistaken for one another</li>
                 <li>Surprised and fear videos mostly had a hand covering the mouth; not ideal to use as source videos</li>
                 <li>Disgusted expression videos are the most difficult to find; don't turn up a lot on search engines</li>
+              </ul>  
+            </td>
+          </tr>
+          <tr>
+            <td>20/10/2024 - 26/10/2024</td>
+            <td> 
+              <ul>
+                <li>Looked for more stock videos for the different emotions; primarily looked for surprised, fear, and disgust</li>
+                <li>Edited and uploaded videos to our shared drive to meet the requirements to train the model with</li>
+              </ul>
+            </td>
+            <td> 
+              <ul>
+                <li>Difficult to find good stock videos that are free, have no watermark, and face forward</li>
+                <li>Need to find expression videos that are distinct from each other so they're not mistaken for one another</li>
+                <li>Surprised and fear videos mostly had a hand covering the mouth; not ideal to use as source videos</li>
+                <li>Disgusted expression videos are the most difficult to find; don't turn up a lot on search engines</li>
+              </ul>  
+            </td>
+          </tr>
+          <tr>
+            <td>27/10/2024 - 2/11/2024</td>
+            <td> 
+              <ul>
+                <li>Looked for more stock videos for the different emotions; primarily looked for surprised, fear, and disgust</li>
+                <li>Uploaded original unedited and untrimmmed videos; previous ones were too cropped</li>
+              </ul>
+            </td>
+            <td> 
+              <ul>
+                <li>Difficult to find good stock videos that are free, have no watermark, and face forward</li>
+                <li>Need to find expression videos that are distinct from each other so they're not mistaken for one another</li>
+                <li>Surprised and fear videos mostly had a hand covering the mouth; not ideal to use as source videos</li>
+                <li>Disgusted expression videos are the most difficult to find; don't turn up a lot on search engines</li>
+                <li>Now needed to find videos showing shoulders; had to discard videos that are too zoomed in</li>
+              </ul>  
+            </td>
+          </tr>
+          <tr>
+            <td>3/11/2024 - 9/11/2024</td>
+            <td> 
+              <ul>
+                <li>Looked for more stock videos for the different emotions; primarily looked for surprised, fear, and disgust</li>
+                <li>Trimmed down some videos</li>
+              </ul>
+            </td>
+            <td> 
+              <ul>
+                <li>Difficult to find good stock videos that are free, have no watermark, and face forward</li>
+                <li>Need to find expression videos that are distinct from each other so they're not mistaken for one another; fear, surprise, and disgust are quite close</li>
+                <li>Surprised and fear videos mostly had a hand covering the mouth; not ideal to use as source videos</li>
+                <li>Disgusted expression videos are the most difficult to find; don't turn up a lot on search engines</li>
+                <li>Finding videos that aren't zoomed in was difficult</li>
               </ul>  
             </td>
           </tr>
