@@ -128,7 +128,7 @@ function Elaine() {
               <ul>
                 <li>Searched for other facial recognition methods for greater accuracy</li>
                 <li>Looked through the sample images in the github</li>
-                <li>Tried focial animation with my own face to see how bad it is</li>
+                <li>Tried facial animation with my own face to see how bad it is</li>
               </ul>
             </td>
             <td> 
