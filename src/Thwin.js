@@ -189,13 +189,45 @@ function Thwin() {
             </td>
           </tr>
           <tr>
-            <td>20/10/2024 - 26/10/2024</td>
+            <td>27/10/2024 - 2/11/2024</td>
             <td> 
               <ul>
                 <li> Seperate frontend for subscribed user and non users </li>
                 <li> Fix navbar menu for responsiveness</li>
                 <li> Fix cancel button in take photo </li>
                 <li> Make AI page responsive </li>
+              </ul>
+            </td>
+            <td> 
+              <ul>
+                <li> None </li>
+              </ul>  
+            </td>
+          </tr>
+          <tr>
+            <td>3/11/2024 - 9/11/2024</td>
+            <td> 
+              <ul>
+                <li> Fix some frontend codes </li>
+                <li> More on user specific views </li>
+              </ul>
+            </td>
+            <td> 
+              <ul>
+                <li> None </li>
+              </ul>  
+            </td>
+          </tr>
+          <tr>
+            <td>10/11/2024 - 16/11/2024</td>
+            <td> 
+              <ul>
+                <li> Style the cards in download page </li>
+                <li> Enable user specific views </li>
+                <li> Style the loading in downloads </li>
+                <li> Add in user infor in edit profile page and cancel.js </li>
+                <li> Add in delete user button </li>
+                <li> Replace the videos with actual ones </li>
               </ul>
             </td>
             <td> 
