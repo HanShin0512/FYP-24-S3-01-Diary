@@ -123,6 +123,24 @@ function meetingMinutes() {
                 <td>All members</td>
                 <td>None</td>
             </tr>
+            <tr>
+                <td>10/11/2024</td>
+                <td>9:30PM - 10:30PM</td>
+                <td>Discord</td>
+                <td>Discuss documentation and perform test cases</td>
+                <td>Complete the tasks assigned</td>
+                <td>All members</td>
+                <td>None</td>
+            </tr>
+            <tr>
+                <td>14/11/2024</td>
+                <td>9:00PM - 10:00PM</td>
+                <td>Discord</td>
+                <td>finsih documentation and fixing website</td>
+                <td>Complete the tasks assigned</td>
+                <td>All members</td>
+                <td>None</td>
+            </tr>
           </table>
       </div>
     );
