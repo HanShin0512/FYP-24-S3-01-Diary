@@ -238,6 +238,21 @@ function Elaine() {
               </ul>  
             </td>
           </tr>
+          <tr>
+            <td>10/11/2024 - 16/11/2024</td>
+            <td> 
+              <ul>
+                <li>Did final documents for submission</li>
+                <li>Worked on final reflective diary for individual submission</li>
+                <li>Tweaked final presentation slides from mid-point slides</li>
+              </ul>
+            </td>
+            <td> 
+              <ul>
+                <li>Had a few issues with certain test cases not working as intended; had to get them checked and altered to work</li>
+              </ul>  
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>
