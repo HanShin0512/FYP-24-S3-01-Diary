@@ -4,13 +4,13 @@ import './Style.css';
 function Thwin() {
   return (
     <div className="App">
-      <h1>Thwin Han Shin</h1>
+      <h1>Thwin Han Shin <a href='https://docs.google.com/document/d/1dXFHWhtr9WbVkwxCjyKwv2MKh4uILeHx/edit?usp=sharing&ouid=112959193424389665200&rtpof=true&sd=true'>[Reflective Diary (File)]</a></h1>
       <table>
-          <tr>
-            <th>Date</th>
-            <th>Task</th>
-            <th>Obstacles Faced</th>
-          </tr>
+        <tr>
+          <th>Date</th>
+          <th>Task</th>
+          <th>Obstacles Faced</th>
+        </tr>
         <tbody>
           <tr>
             <td>14/7/2024 - 21/7/2024</td>
@@ -76,7 +76,7 @@ function Thwin() {
           </tr>
           <tr>
             <td>8/9/2024 - 14/9/2024</td>
-            <td> 
+            <td>
               <ul>
                 <li> Perfect the web for presentation </li>
                 <li> Do documentation (technical and user manuals) </li>
@@ -86,7 +86,7 @@ function Thwin() {
           </tr>
           <tr>
             <td>15/9/2024 - 21/9/2024</td>
-            <td> 
+            <td>
               <ul>
                 <li> Perfect the web for presentation </li>
                 <li> Perfect the documentation (technical and user manuals) </li>
@@ -94,15 +94,15 @@ function Thwin() {
                 <li> Practice presentation </li>
               </ul>
             </td>
-            <td> 
+            <td>
               <ul>
                 <li>Confusion with whether to use state diagram or sequence diagram </li>
-              </ul>  
+              </ul>
             </td>
           </tr>
           <tr>
             <td>22/9/2024 - 28/9/2024</td>
-            <td> 
+            <td>
               <ul>
                 <li> Code front end for admin search user </li>
                 <li> Update the subscription pricing and list items </li>
@@ -110,15 +110,15 @@ function Thwin() {
                 <li> Update style for profile drop down menu </li>
               </ul>
             </td>
-            <td> 
+            <td>
               <ul>
                 <li>Space overflow problem </li>
-              </ul>  
+              </ul>
             </td>
           </tr>
           <tr>
             <td>29/9/2024 - 5/10/2024</td>
-            <td> 
+            <td>
               <ul>
                 <li> Added pop up modals for admin account creation </li>
                 <li> Coded front end for admin view user details</li>
@@ -126,17 +126,17 @@ function Thwin() {
                 <li> Try to fix input error</li>
               </ul>
             </td>
-            <td> 
+            <td>
               <ul>
                 <li> Github branch mergining problem </li>
                 <li> Creating reusable modal </li>
                 <li> Cannot type in input fields </li>
-              </ul>  
+              </ul>
             </td>
           </tr>
           <tr>
             <td>6/9/2024 - 12/10/2024</td>
-            <td> 
+            <td>
               <ul>
                 <li> Change admin wireframes </li>
                 <li> Update admin page design </li>
@@ -147,15 +147,15 @@ function Thwin() {
                 <li> Code front end for edit user info </li>
               </ul>
             </td>
-            <td> 
+            <td>
               <ul>
                 <li> None </li>
-              </ul>  
+              </ul>
             </td>
           </tr>
           <tr>
             <td>13/10/2024 - 19/10/2024</td>
-            <td> 
+            <td>
               <ul>
                 <li> Add cancel button to camera preview </li>
                 <li> Add save and generate again button after successful AI generation</li>
@@ -165,15 +165,15 @@ function Thwin() {
                 <li> organise button code</li>
               </ul>
             </td>
-            <td> 
+            <td>
               <ul>
                 <li> None </li>
-              </ul>  
+              </ul>
             </td>
           </tr>
           <tr>
             <td>20/10/2024 - 26/10/2024</td>
-            <td> 
+            <td>
               <ul>
                 <li> Code card for saved video </li>
                 <li> Code share video </li>
@@ -182,15 +182,15 @@ function Thwin() {
                 <li> Code edit user account page </li>
               </ul>
             </td>
-            <td> 
+            <td>
               <ul>
                 <li> None </li>
-              </ul>  
+              </ul>
             </td>
           </tr>
           <tr>
             <td>27/10/2024 - 2/11/2024</td>
-            <td> 
+            <td>
               <ul>
                 <li> Seperate frontend for subscribed user and non users </li>
                 <li> Fix navbar menu for responsiveness</li>
@@ -198,29 +198,29 @@ function Thwin() {
                 <li> Make AI page responsive </li>
               </ul>
             </td>
-            <td> 
+            <td>
               <ul>
                 <li> None </li>
-              </ul>  
+              </ul>
             </td>
           </tr>
           <tr>
             <td>3/11/2024 - 9/11/2024</td>
-            <td> 
+            <td>
               <ul>
                 <li> Fix some frontend codes </li>
                 <li> More on user specific views </li>
               </ul>
             </td>
-            <td> 
+            <td>
               <ul>
                 <li> None </li>
-              </ul>  
+              </ul>
             </td>
           </tr>
           <tr>
             <td>10/11/2024 - 16/11/2024</td>
-            <td> 
+            <td>
               <ul>
                 <li> Style the cards in download page </li>
                 <li> Enable user specific views </li>
@@ -230,10 +230,10 @@ function Thwin() {
                 <li> Replace the videos with actual ones </li>
               </ul>
             </td>
-            <td> 
+            <td>
               <ul>
                 <li> None </li>
-              </ul>  
+              </ul>
             </td>
           </tr>
         </tbody>

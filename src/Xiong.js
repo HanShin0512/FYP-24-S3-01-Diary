@@ -4,14 +4,14 @@ import './Style.css';
 function Xiong() {
   return (
     <div className="App">
-      <h1>Xiong Binsong</h1>
+      <h1>Xiong Binsong <a href='https://docs.google.com/document/d/1M7ZJG2zuL0oMTNlXWJGGw4CimvhvvoLA/edit?usp=sharing&ouid=112959193424389665200&rtpof=true&sd=true'>[Reflective Diary (File)]</a></h1>
       <table>
-          <tr>
-            <th>Date</th>
-            <th>Task</th>
-            <th>Obstacles Faced</th>
-          </tr>
-          <tbody>
+        <tr>
+          <th>Date</th>
+          <th>Task</th>
+          <th>Obstacles Faced</th>
+        </tr>
+        <tbody>
           <tr>
             <td>14/7/2024 - 21/7/2024</td>
             <td>
@@ -58,17 +58,17 @@ function Xiong() {
             </td>
           </tr>
           <td>11/8/2024 - 17/8/2024</td>
-            <td>
-              <ul>
-                <li>Coding the brand new AI model using python, setting up environment and finding datasets</li>
-              </ul>
-            </td>
-            <td>
-              <ul>
-                <li>Never done AI coding before having problem with the code foundation</li>
-                <li>Mostly fixing code issue</li>
-              </ul>
-            </td>
+          <td>
+            <ul>
+              <li>Coding the brand new AI model using python, setting up environment and finding datasets</li>
+            </ul>
+          </td>
+          <td>
+            <ul>
+              <li>Never done AI coding before having problem with the code foundation</li>
+              <li>Mostly fixing code issue</li>
+            </ul>
+          </td>
           <tr>
             <td>18/8/2024 - 24/8/2024</td>
             <td>

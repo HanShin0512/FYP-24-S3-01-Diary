@@ -4,7 +4,7 @@ import './Style.css';
 function Minseo() {
   return (
     <div className="App">
-      <h1>Yun Minseo (leader) </h1>
+      <h1>Yun Minseo (Leader) <a href='https://drive.google.com/file/d/1jLBUJH6y6skZu2F1hxRZWM2oihxW1Cmh/view?usp=sharing'>[Reflective Diary (File)]</a></h1>
       <table>
         <tr>
           <th>Date</th>
@@ -172,7 +172,7 @@ function Minseo() {
             <td>22/9/2024 - 28/9/2024</td>
             <td>
               <ul>
-                <li></li>
+                <li>Trying to solve face alignment issue.</li>
               </ul>
             </td>
             <td>
@@ -249,6 +249,39 @@ function Minseo() {
             <td>
               <ul>
                 <li>N/A</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>3/11/2024 - 9/11/2024</td>
+            <td>
+              <ul>
+                <li>Get access to Aff-Wild2 Dataset</li>
+                <li>Analyse emotional labels in Aff-Wild2 dataset to know which video can be used</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>Dataset contains lots of videos, so need to watch through it and edit it for matching our input. Use script for collate the labels.</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>10/11/2024 - 16/11/2024</td>
+            <td>
+              <ul>
+                <li>Editing the Aff-Wild2 dataset for target video purpose</li>
+                <li>Extract some sample inferenced animation for the Final Report</li>
+                <li>Write test cases</li>
+                <li>Edit 1-min video trailer</li>
+                <li>Write Final User Manual</li>
+                <li>Write Final Technical Document</li>
+                <li>Make Final Presentation Slides</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>Some videos look suitable, but the actual result doesn't.</li>
               </ul>
             </td>
           </tr>

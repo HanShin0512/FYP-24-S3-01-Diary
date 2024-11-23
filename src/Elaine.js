@@ -4,13 +4,13 @@ import './Style.css';
 function Elaine() {
   return (
     <div className="App">
-      <h1>Esther Elaine Haryono</h1>
+      <h1>Esther Elaine Haryono <a href='https://drive.google.com/file/d/1ONth-BrwFp_GVHel9c3nmWtQK0yyVXeu/view?usp=sharing'>[Reflective Diary (File)]</a></h1>
       <table>
-          <tr>
-            <th>Date</th>
-            <th>Task</th>
-            <th>Obstacles Faced</th>
-          </tr>
+        <tr>
+          <th>Date</th>
+          <th>Task</th>
+          <th>Obstacles Faced</th>
+        </tr>
         <tbody>
           <tr>
             <td>14/7/2024 - 21/7/2024</td>
@@ -43,9 +43,9 @@ function Elaine() {
               </ul>
             </td>
             <td>
-                <li>Premium features were difficult to verify since they require payment</li>
-                <li>Some free versions are unavailable for download at the time or offer very limited uses that make it difficult to verify features</li>
-                <li>A lot of these products have very similar features, which makes it difficult to find non-arbitrary products</li>
+              <li>Premium features were difficult to verify since they require payment</li>
+              <li>Some free versions are unavailable for download at the time or offer very limited uses that make it difficult to verify features</li>
+              <li>A lot of these products have very similar features, which makes it difficult to find non-arbitrary products</li>
             </td>
           </tr>
           <tr>
@@ -57,8 +57,8 @@ function Elaine() {
               </ul>
             </td>
             <td>
-                <li>Trying to manage time between FYP and my other assignment is difficult since the latter has a tighter deadline</li>
-                <li>Understanding how the GAN models work is difficult since we have no experience with them, and instructions aren not beginner friendly</li>
+              <li>Trying to manage time between FYP and my other assignment is difficult since the latter has a tighter deadline</li>
+              <li>Understanding how the GAN models work is difficult since we have no experience with them, and instructions aren not beginner friendly</li>
             </td>
           </tr>
           <tr>
@@ -69,8 +69,8 @@ function Elaine() {
               </ul>
             </td>
             <td>
-                <li>Not many GAN models are optimized for facial animation; unsure how to implement to site</li>
-                <li>Don't have a lot of experience with GitHub, so understanding how to use it for the project is difficult; will continue to get used to it</li>
+              <li>Not many GAN models are optimized for facial animation; unsure how to implement to site</li>
+              <li>Don't have a lot of experience with GitHub, so understanding how to use it for the project is difficult; will continue to get used to it</li>
             </td>
           </tr>
           <tr>
@@ -82,7 +82,7 @@ function Elaine() {
               </ul>
             </td>
             <td>
-                <li>Attempting to implement contents of an existing GAN is difficult without experience</li>
+              <li>Attempting to implement contents of an existing GAN is difficult without experience</li>
             </td>
           </tr>
           <tr>
@@ -94,7 +94,7 @@ function Elaine() {
               </ul>
             </td>
             <td>
-                <li>Some extra difficulty due to using an Apple Silicon MacBook, since some programs are not compatible with Silicon-based Macs</li>
+              <li>Some extra difficulty due to using an Apple Silicon MacBook, since some programs are not compatible with Silicon-based Macs</li>
             </td>
           </tr>
           <tr>
@@ -106,7 +106,7 @@ function Elaine() {
               </ul>
             </td>
             <td>
-                <li>Format of Technical and User Manual examples was confusing; unsure how to start</li>
+              <li>Format of Technical and User Manual examples was confusing; unsure how to start</li>
             </td>
           </tr>
           <tr>
@@ -118,139 +118,139 @@ function Elaine() {
               </ul>
             </td>
             <td>
-                <li>Sequence diagrams were a bit confusing; unsure how exactly to do it since we did not do Object-Oriented Programming</li>
-                <li>Content of presentation slides was difficult to consolidate; had to remember what our Unique Selling Point was</li>
+              <li>Sequence diagrams were a bit confusing; unsure how exactly to do it since we did not do Object-Oriented Programming</li>
+              <li>Content of presentation slides was difficult to consolidate; had to remember what our Unique Selling Point was</li>
             </td>
           </tr>
           <tr>
             <td>22/9/2024 - 28/9/2024</td>
-            <td> 
+            <td>
               <ul>
                 <li>Searched for other facial recognition methods for greater accuracy</li>
                 <li>Looked through the sample images in the github</li>
                 <li>Tried facial animation with my own face to see how bad it is</li>
               </ul>
             </td>
-            <td> 
+            <td>
               <ul>
                 <li>Facial recognition is very poor; "four eyes" problem</li>
                 <li>Understanding how model is trained is difficult; would also take a long time to train</li>
-              </ul>  
+              </ul>
             </td>
           </tr>
           <tr>
             <td>29/9/2024 - 5/10/2024</td>
-            <td> 
+            <td>
               <ul>
                 <li>Looked for stock videos for the different emotions</li>
                 <li>Edited and uploaded some to our shared drive to meet the requirements to train the model with</li>
               </ul>
             </td>
-            <td> 
+            <td>
               <ul>
                 <li>Difficult to find good stock videos that are free, have no watermark, and face forward</li>
-              </ul>  
+              </ul>
             </td>
           </tr>
           <tr>
             <td>6/10/2024 - 12/10/2024</td>
-            <td> 
+            <td>
               <ul>
                 <li>Looked for more stock videos for the different emotions; happy was done</li>
                 <li>Edited and uploaded some to our shared drive to meet the requirements to train the model with</li>
               </ul>
             </td>
-            <td> 
+            <td>
               <ul>
                 <li>Difficult to find good stock videos that are free, have no watermark, and face forward</li>
                 <li>Angry stock videos have too many hand movements that sometimes cover the face</li>
                 <li>Sad stock videos usually are not forward-facing</li>
-              </ul>  
+              </ul>
             </td>
           </tr>
           <tr>
             <td>13/10/2024 - 19/10/2024</td>
-            <td> 
+            <td>
               <ul>
                 <li>Looked for more stock videos for the different emotions; angry and sad were done</li>
                 <li>Edited and uploaded videos to our shared drive to meet the requirements to train the model with</li>
               </ul>
             </td>
-            <td> 
+            <td>
               <ul>
                 <li>Difficult to find good stock videos that are free, have no watermark, and face forward</li>
                 <li>Need to find expression videos that are distinct from each other so they're not mistaken for one another</li>
                 <li>Surprised and fear videos mostly had a hand covering the mouth; not ideal to use as source videos</li>
                 <li>Disgusted expression videos are the most difficult to find; don't turn up a lot on search engines</li>
-              </ul>  
+              </ul>
             </td>
           </tr>
           <tr>
             <td>20/10/2024 - 26/10/2024</td>
-            <td> 
+            <td>
               <ul>
                 <li>Looked for more stock videos for the different emotions; primarily looked for surprised, fear, and disgust</li>
                 <li>Edited and uploaded videos to our shared drive to meet the requirements to train the model with</li>
               </ul>
             </td>
-            <td> 
+            <td>
               <ul>
                 <li>Difficult to find good stock videos that are free, have no watermark, and face forward</li>
                 <li>Need to find expression videos that are distinct from each other so they're not mistaken for one another</li>
                 <li>Surprised and fear videos mostly had a hand covering the mouth; not ideal to use as source videos</li>
                 <li>Disgusted expression videos are the most difficult to find; don't turn up a lot on search engines</li>
-              </ul>  
+              </ul>
             </td>
           </tr>
           <tr>
             <td>27/10/2024 - 2/11/2024</td>
-            <td> 
+            <td>
               <ul>
                 <li>Looked for more stock videos for the different emotions; primarily looked for surprised, fear, and disgust</li>
                 <li>Uploaded original unedited and untrimmmed videos; previous ones were too cropped</li>
               </ul>
             </td>
-            <td> 
+            <td>
               <ul>
                 <li>Difficult to find good stock videos that are free, have no watermark, and face forward</li>
                 <li>Need to find expression videos that are distinct from each other so they're not mistaken for one another</li>
                 <li>Surprised and fear videos mostly had a hand covering the mouth; not ideal to use as source videos</li>
                 <li>Disgusted expression videos are the most difficult to find; don't turn up a lot on search engines</li>
                 <li>Now needed to find videos showing shoulders; had to discard videos that are too zoomed in</li>
-              </ul>  
+              </ul>
             </td>
           </tr>
           <tr>
             <td>3/11/2024 - 9/11/2024</td>
-            <td> 
+            <td>
               <ul>
                 <li>Looked for more stock videos for the different emotions; primarily looked for surprised, fear, and disgust</li>
                 <li>Trimmed down some videos</li>
               </ul>
             </td>
-            <td> 
+            <td>
               <ul>
                 <li>Difficult to find good stock videos that are free, have no watermark, and face forward</li>
                 <li>Need to find expression videos that are distinct from each other so they're not mistaken for one another; fear, surprise, and disgust are quite close</li>
                 <li>Surprised and fear videos mostly had a hand covering the mouth; not ideal to use as source videos</li>
                 <li>Disgusted expression videos are the most difficult to find; don't turn up a lot on search engines</li>
                 <li>Finding videos that aren't zoomed in was difficult</li>
-              </ul>  
+              </ul>
             </td>
           </tr>
           <tr>
             <td>10/11/2024 - 16/11/2024</td>
-            <td> 
+            <td>
               <ul>
                 <li>Did final documents for submission</li>
                 <li>Worked on final reflective diary for individual submission</li>
                 <li>Tweaked final presentation slides from mid-point slides</li>
               </ul>
             </td>
-            <td> 
+            <td>
               <ul>
                 <li>Had a few issues with certain test cases not working as intended; had to get them checked and altered to work</li>
-              </ul>  
+              </ul>
             </td>
           </tr>
         </tbody>
